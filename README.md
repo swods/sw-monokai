@@ -6,13 +6,8 @@ I user this package for my sublime 3. It consists red Accessor like in Sublime 2
 INSTALLATION
 ------------
 
-### Install via Composer
+Just clone it in `Sublime Text 3\Packages\User\any_folder_name`
 
-Add this in composer.json
-
-~~~
-"swods/monokai": "*"
-~~~
 
 HOW TO USE
 ------------
