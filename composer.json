@@ -1,0 +1,24 @@
+{
+    "name": "swods/fileloader",
+    "description": "File loader",
+    "keywords": ["yii2", "swods", "file loader", "fileloader"],
+    "type": "yii2-extension",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "SSU (SwoDs)",
+            "email": "etc@swods.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0.0",
+        "yiisoft/yii2": ">=2.0.4",
+        "swods/randstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "swods\\fileloader\\": ""
+        }
+    }
+}
