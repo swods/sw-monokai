@@ -1,7 +1,7 @@
 Submlime Monokai Default Theme
 ============================
 
-I user this package for my sublime 3. It consists red Accessor like in Sublime 2
+I use this package for my sublime 3. It consists red Accessor like in Sublime 2
 
 INSTALLATION
 ------------
